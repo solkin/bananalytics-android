@@ -1,5 +1,7 @@
 # 🍌 Bananalytics
 
+[![](https://jitpack.io/v/solkin/bananalytics-android.svg)](https://jitpack.io/#solkin/bananalytics-android)
+
 Lightweight analytics and crash reporting library for Android.
 
 ## Features
