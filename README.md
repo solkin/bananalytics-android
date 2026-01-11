@@ -13,6 +13,10 @@ Lightweight analytics and crash reporting library for Android.
 - **Self-contained** — module handles network requests internally
 - **Minimal dependencies** — Kotlin stdlib, Gson, OkHttp
 
+## Backend
+
+This SDK works with [🍌 Bananalytics](https://github.com/solkin/bananalytics) — lightweight self-hosted crash reporting and analytics platform. Features include R8/ProGuard deobfuscation, smart crash grouping, APK distribution, team collaboration, and simple Docker deployment. Full control over your data.
+
 ## Quick Start
 
 ```kotlin
